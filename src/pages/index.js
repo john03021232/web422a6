@@ -7,9 +7,12 @@
 * 
 *  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
 * 
-*  Name: ____John Wu____________ Student ID: __186922233___________ Date: ___8/6_____________
+*  Name: ________John Wu_________ Student ID: _____186922233_________ Date: ______8/6__________
+*
+*  Render App (Deployed) Link:   https://web422a6-m7lh.onrender.com
 *
 ********************************************************************************/ 
+
 
 import { Row, Col, Image } from 'react-bootstrap';
 
